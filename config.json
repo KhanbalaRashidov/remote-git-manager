@@ -1,0 +1,11 @@
+{
+  "ssh_host": "",
+  "ssh_port": "22",
+  "ssh_user": "",
+  "ssh_key_path": "/home/username/.ssh/id_rsa",
+  "ssh_password": "",
+  "auth_method": "password",
+  "working_dir": "",
+  "github_token": "",
+  "is_configured": true
+}
